@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Hi, I'm Zhawn Monteras</h1>
+  <h1>Zhawn Monteras</h1>
   <p><b>Full‑Stack & Mobile Developer</b> · Flutter · JavaScript/TypeScript · Node.js · PHP · Firebase/MySQL</p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Mobile+App+Developer;I+ship+clean%2C+useful+software" alt="typing banner" />
 </div>
