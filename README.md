@@ -60,9 +60,9 @@
 </p>
 
 ## 🤝 Contact
-- Email: <a href="mailto:zhawnmonteras@gmail.com">zhawnmonteras@gmail.com</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/zhawnmonteras/">zhawnmonteras</a>
-- X: <a href="https://x.com/sleepysleepss">@sleepysleepss</a>
-- Instagram: <a href="https://instagram.com/zooonnnn_">@zooonnnn_</a>
+- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) <a href="mailto:zhawnmonteras@gmail.com">zhawnmonteras@gmail.com</a>
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) <a href="https://www.linkedin.com/in/zhawnmonteras/">zhawnmonteras</a>
+- ![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) <a href="https://x.com/sleepysleepss">@sleepysleepss</a>
+- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) <a href="https://instagram.com/zooonnnn_">@zooonnnn_</a>
 
 <p><img src="https://komarev.com/ghpvc/?username=seraphh&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" /></p>
