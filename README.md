@@ -59,20 +59,6 @@
 
 </details>
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/seraphh/Pulse-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=seraphh&repo=Pulse-App&theme=tokyonight&hide_border=true" alt="Pulse-App" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-- Pulse-App: Flutter + Firebase, community engagement, media handling, analytics.
-
 ## 📈 Stats
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=seraphh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
