@@ -1,3 +1,10 @@
+Hi there, I'm Zhawn!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Always+learning+new+things" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=seraphh&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mikomonteras) 
