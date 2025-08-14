@@ -1,7 +1,6 @@
 
 <div align="center">
   <h1>Zhawn Monteras</h1>
-<p align="center">
   <a href="mailto:zhawnmonteras@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -14,7 +13,6 @@
   <a href="https://instagram.com/zooonnnn_" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Mobile+App+Developer;I+ship+clean%2C+useful+software" alt="typing banner" />
 </div>
 
