@@ -13,12 +13,6 @@
   <a href="#-contact">Contact</a>
 </p>
 
-## 👋 About
-- I build end‑to‑end apps: Flutter frontends, Node/PHP backends, Firebase + SQL databases.
-- I enjoy designing pragmatic architectures, clean UIs, and performant data flows.
-- Currently working on: citizen engagement apps, analytics dashboards, and media workflows.
-- Learning next: Flutter Clean Architecture, Cloud Functions, and advanced TypeScript patterns.
-
 ## 🧰 Skills
 
 <p>
@@ -95,6 +89,3 @@
 - Instagram: <a href="https://instagram.com/zooonnnn_">@zooonnnn_</a>
 
 <p><img src="https://komarev.com/ghpvc/?username=seraphh&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" /></p>
-
-
-<p><b>Open to collaborating</b> on Flutter apps, Node/Firebase backends, and full‑stack web projects. Reach out!</p>
