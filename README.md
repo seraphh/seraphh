@@ -5,14 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Mobile+App+Developer;I+ship+clean%2C+useful+software" alt="typing banner" />
 </div>
 
-<p align="center">
-  <a href="#-about">About</a> •
-  <a href="#-skills">Skills</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-stats">Stats</a> •
-  <a href="#-contact">Contact</a>
-</p>
-
 ## 🧰 Skills
 
 <p>
