@@ -1,7 +1,20 @@
 
 <div align="center">
   <h1>Zhawn Monteras</h1>
-  <p><b>Full‑Stack & Mobile Developer</b> · PHP · JavaScript/TypeScript · Node.js · Flutter · Firebase/MySQL</p>
+<p align="center">
+  <a href="mailto:zhawnmonteras@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/zhawnmonteras/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/sleepysleepss">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://instagram.com/zooonnnn_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Mobile+App+Developer;I+ship+clean%2C+useful+software" alt="typing banner" />
 </div>
 
@@ -58,11 +71,5 @@
 <p>
   <img height="170" src="https://streak-stats.demolab.com?user=seraphh&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
-
-## 🤝 Contact
-- ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) <a href="mailto:zhawnmonteras@gmail.com">zhawnmonteras@gmail.com</a>
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) <a href="https://www.linkedin.com/in/zhawnmonteras/">zhawnmonteras</a>
-- ![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) <a href="https://x.com/sleepysleepss">@sleepysleepss</a>
-- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) <a href="https://instagram.com/zooonnnn_">@zooonnnn_</a>
 
 <p><img src="https://komarev.com/ghpvc/?username=seraphh&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" /></p>
